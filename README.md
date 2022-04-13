@@ -2,7 +2,7 @@
 
 ## Search for flavor-changing neutral currents in processes in  <img src="https://latex.codecogs.com/gif.latex?t\bar{t}" /> multilepton final states in proton-proton collisions with the CMS detector.
 
-This repository contains the final projects of the courses "Laboratory of Computational Physics - Mod B" (LOCP) and "Management and Analysis of Physics Datasets - Mod B" (MAPD) of "Physics of Data" MSc at University of Padua, done in collaboration with Tommaso Stentella, Samuele Piccinelli and Cristina Venturini.
+This repository contains the final projects of the courses "Laboratory of Computational Physics - Mod B" (LOCP) and "Management and Analysis of Physics Datasets - Mod B" (MAPD) of "Physics of Data" MSc at University of Padua, done in collaboration with [Tommaso Stentella](https://github.com/TommasoStentella), [Samuele Piccinelli](https://github.com/spiccinelli) and [Cristina Venturini](https://github.com/cristinaventurini).
 
 The main purpose of the work is to set an upper limit to the branching fraction of FCNC decay of the top quark in the multilepton channel <img src="https://latex.codecogs.com/gif.latex?t\bar{t}\to\text{Hq+Wb}\to\text{multilepton}">. More specifically, in our work the limit is set on the strength 𝜇 of the signal. The analyzed dataset is composed by simulated FCNC samples, simulated background samples and CMS Data (Run 2016/2017/2018) contaned in `.root` files stored on Cloud Veneto's VMs.
 
