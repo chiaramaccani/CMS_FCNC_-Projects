@@ -9,4 +9,4 @@ The main purpose of the work is to set an upper limit to the branching fraction 
 The notebooks [LOCP_CMS_FCNC_pt1](LOCP_CMS_FCNC_pt1.ipynb) and [LOCP_CMS_FCNC_pt2](LOCP_CMS_FCNC_pt2.ipynb) contain our full analysis done using Pyroot v.6.24, while the notebook [MAPD_CMS_FCNC](MAPD_CMS_FCNC.ipynb) contains a reduced analysis done with a distributed approach using Apache Spark.
 
 
-<img align='left' src='https://raw.githubusercontent.com/TommasoStentella/LCP_B-CMS_FCNC/master/Plots/MET_pt_final_histogram_3.png' alt='Drawing' style='width:400px;'/><img align='right' src='https://raw.githubusercontent.com/TommasoStentella/LCP_B-CMS_FCNC/master/Plots/inv_m01_final_histogram_3.png' alt='Drawing' style='width:400px;'/>
+<img align='left' src='https://raw.githubusercontent.com/TommasoStentella/LCP_B-CMS_FCNC/master/Plots/MET_pt_final_histogram_3.png' alt='Drawing' style='width:350px;'/><img align='right' src='https://raw.githubusercontent.com/TommasoStentella/LCP_B-CMS_FCNC/master/Plots/inv_m01_final_histogram_3.png' alt='Drawing' style='width:350px;'/>
